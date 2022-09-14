@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-01T09:25:00 IST" name="Default suite" finished-at="2022-09-01T09:25:00 IST" duration-ms="127">
+    <groups>
+    </groups>
+    <test started-at="2022-09-01T09:25:00 IST" name="Default test" finished-at="2022-09-01T09:25:00 IST" duration-ms="127">
+      <class name="w3school.scripts.A">
+        <test-method signature="one()[pri:1, instance:w3school.scripts.A@2145b572, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="one" finished-at="2022-09-01T09:25:00 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method signature="one()[pri:1, instance:w3school.scripts.A@39529185, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="one" finished-at="2022-09-01T09:25:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method signature="two()[pri:2, instance:w3school.scripts.A@2145b572, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="two" finished-at="2022-09-01T09:25:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+        <test-method signature="two()[pri:2, instance:w3school.scripts.A@39529185, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="two" finished-at="2022-09-01T09:25:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+        <test-method signature="three()[pri:3, instance:w3school.scripts.A@2145b572, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="three" finished-at="2022-09-01T09:25:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+        <test-method signature="three()[pri:3, instance:w3school.scripts.A@39529185, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="three" finished-at="2022-09-01T09:25:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+      </class> <!-- w3school.scripts.A -->
+      <class name="w3school.scripts.B">
+        <test-method signature="one()[pri:4, instance:w3school.scripts.B@188715b5, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="one" finished-at="2022-09-01T09:25:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method signature="one()[pri:4, instance:w3school.scripts.B@2f7298b, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="one" finished-at="2022-09-01T09:25:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method signature="two()[pri:5, instance:w3school.scripts.B@188715b5, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="two" finished-at="2022-09-01T09:25:00 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+        <test-method signature="two()[pri:5, instance:w3school.scripts.B@2f7298b, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="two" finished-at="2022-09-01T09:25:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+        <test-method signature="three()[pri:6, instance:w3school.scripts.B@188715b5, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="three" finished-at="2022-09-01T09:25:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+        <test-method signature="three()[pri:6, instance:w3school.scripts.B@2f7298b, instance params:[]]" started-at="2022-09-01T09:25:00 IST" name="three" finished-at="2022-09-01T09:25:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+      </class> <!-- w3school.scripts.B -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

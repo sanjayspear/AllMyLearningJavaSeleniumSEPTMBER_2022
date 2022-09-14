@@ -1,0 +1,5 @@
+Encapsulation:
+
+    1. It eliminates unauthorized access to fields directly and it's been achieved by marking 
+       all fields with private modifiers.
+    2. However, changes done with internal implementation doesn't impact external users.

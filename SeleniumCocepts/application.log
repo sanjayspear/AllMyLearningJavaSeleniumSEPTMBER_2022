@@ -1,0 +1,516 @@
+2022-09-13 02:26:50,151  INFO [main] BaseClass:21 - Launching chrome browser
+2022-09-13 02:26:56,909  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:27:05,769  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:27:13,997  INFO [main] Log4jDemo:35 - [ELEMENT FLASH TEST SUCCESS]
+2022-09-13 02:27:14,001  INFO [main] Log4jDemo:104 - user has logged out
+2022-09-13 02:27:16,021  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:27:19,509  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:27:22,623  INFO [main] Log4jDemo:45 - [DRAW BORDER TEST SUCCESS]
+2022-09-13 02:27:22,638  INFO [main] Log4jDemo:104 - user has logged out
+2022-09-13 02:27:24,643  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:27:27,457  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:27:29,502  INFO [main] Log4jDemo:54 - [WEBSITE TITLE] :: Pens tagged 'javascript' on CodePen
+2022-09-13 02:27:29,503  INFO [main] Log4jDemo:56 - [GET TITLE TEST SUCCESS]
+2022-09-13 02:27:29,509  INFO [main] Log4jDemo:104 - user has logged out
+2022-09-13 02:27:31,528  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:27:34,960  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:27:52,637  INFO [main] Log4jDemo:80 - [ELEMENT CLICK THROUGH JAVASCRIPT TEST SUCCESS]
+2022-09-13 02:27:52,640  INFO [main] Log4jDemo:104 - user has logged out
+2022-09-13 02:27:54,648  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:27:56,428  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:28:00,955  INFO [main] Log4jDemo:87 - [PAGE REFRESHED SUCCESSFULLY]
+2022-09-13 02:28:00,960  INFO [main] Log4jDemo:104 - user has logged out
+2022-09-13 02:28:02,962  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:28:06,177  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:28:17,687  INFO [main] Log4jDemo:97 - [SCROLLED TILL {NEXT} BUTTON THEN CLICKED SUCCESSFULLY]
+2022-09-13 02:28:20,709  INFO [main] Log4jDemo:104 - user has logged out
+2022-09-13 02:28:22,754  INFO [main] BaseClass:34 - Quiting the browser
+2022-09-13 02:44:22,368  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 02:44:25,860  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 02:44:26,058  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 02:44:26,071  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 02:44:26,077  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 02:44:26,092  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 02:44:29,128  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:44:35,956  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:44:35,956  INFO [main] Log4jDemo:28 - Static thread wait for 2 seconds
+2022-09-13 02:44:37,990  INFO [main] Log4jDemo:34 - ELEMENT FLASH TEST STARTED
+2022-09-13 02:44:44,247  INFO [main] Log4jDemo:38 - [ELEMENT FLASH TEST END]
+2022-09-13 02:44:44,252  INFO [main] Log4jDemo:120 - user has log out Inprogress
+2022-09-13 02:44:44,253  INFO [main] Log4jDemo:121 - Static thread wait for 3 seconds
+2022-09-13 02:44:46,254  INFO [main] Log4jDemo:123 - user has logged out Successfully
+2022-09-13 02:44:46,260  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:44:48,809  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:44:48,810  INFO [main] Log4jDemo:28 - Static thread wait for 2 seconds
+2022-09-13 02:44:50,824  INFO [main] Log4jDemo:44 - [DRAW BORDER TEST around SignIn Button STARTED]
+2022-09-13 02:44:50,847  INFO [main] Log4jDemo:47 - [SignIn Button Screenshot STARTED]
+2022-09-13 02:44:51,127  INFO [main] Log4jDemo:49 - [SignIn Button Screenshot END]
+2022-09-13 02:44:51,127  INFO [main] Log4jDemo:51 - [DRAW BORDER TEST around SignIn Button END]
+2022-09-13 02:44:51,130  INFO [main] Log4jDemo:120 - user has log out Inprogress
+2022-09-13 02:44:51,131  INFO [main] Log4jDemo:121 - Static thread wait for 3 seconds
+2022-09-13 02:44:53,140  INFO [main] Log4jDemo:123 - user has logged out Successfully
+2022-09-13 02:44:53,146  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:44:55,244  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:44:55,245  INFO [main] Log4jDemo:28 - Static thread wait for 2 seconds
+2022-09-13 02:44:57,270  INFO [main] Log4jDemo:60 - [WEBSITE TITLE] :: Pens tagged 'javascript' on CodePen
+2022-09-13 02:44:57,271  INFO [main] Log4jDemo:62 - [GET TITLE TEST SUCCESS]
+2022-09-13 02:44:57,276  INFO [main] Log4jDemo:120 - user has log out Inprogress
+2022-09-13 02:44:57,276  INFO [main] Log4jDemo:121 - Static thread wait for 3 seconds
+2022-09-13 02:44:59,280  INFO [main] Log4jDemo:123 - user has logged out Successfully
+2022-09-13 02:44:59,284  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:45:02,080  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:45:02,081  INFO [main] Log4jDemo:28 - Static thread wait for 2 seconds
+2022-09-13 02:45:10,439  INFO [main] Log4jDemo:70 - [DRAW BRODER AROUND LOGIN BUTTON STARTED]
+2022-09-13 02:45:10,469  INFO [main] Log4jDemo:72 - [DRAW BRODER AROUND LOGIN BUTTON END]
+2022-09-13 02:45:10,471  INFO [main] Log4jDemo:73 - [CLICLLOGIN BUTTON]
+2022-09-13 02:45:13,153  INFO [main] Log4jDemo:75 - [LOGIN BUTTON CLICKED
+2022-09-13 02:45:13,154  INFO [main] Log4jDemo:88 - Static thread wait for 2 seconds
+2022-09-13 02:45:15,159  INFO [main] Log4jDemo:90 - ABOUT TO NAVIGATE TO THE PREVIOUS PAGE
+2022-09-13 02:45:16,709  INFO [main] Log4jDemo:92 - [NAVIGATED BACK SUCCESSFULLY]
+2022-09-13 02:45:16,713  INFO [main] Log4jDemo:120 - user has log out Inprogress
+2022-09-13 02:45:16,713  INFO [main] Log4jDemo:121 - Static thread wait for 3 seconds
+2022-09-13 02:45:18,726  INFO [main] Log4jDemo:123 - user has logged out Successfully
+2022-09-13 02:45:18,729  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:45:21,342  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:45:21,343  INFO [main] Log4jDemo:28 - Static thread wait for 2 seconds
+2022-09-13 02:45:23,348  INFO [main] Log4jDemo:98 - [PAGE REFRESH STARTED]
+2022-09-13 02:45:25,154  INFO [main] Log4jDemo:100 - [PAGE REFRESH DONE]
+2022-09-13 02:45:25,158  INFO [main] Log4jDemo:120 - user has log out Inprogress
+2022-09-13 02:45:25,158  INFO [main] Log4jDemo:121 - Static thread wait for 3 seconds
+2022-09-13 02:45:27,162  INFO [main] Log4jDemo:123 - user has logged out Successfully
+2022-09-13 02:45:27,170  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 02:45:28,206  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 02:45:28,206  INFO [main] Log4jDemo:28 - Static thread wait for 2 seconds
+2022-09-13 02:45:30,221  INFO [main] Log4jDemo:105 - [SCROLLED TILL {NEXT} BUTTON TEST STARTED
+2022-09-13 02:45:30,272  INFO [main] Log4jDemo:108 - Static thread wait for 3 seconds
+2022-09-13 02:45:39,734  INFO [main] Log4jDemo:112 - [SCROLLED TILL {NEXT} BUTTON THEN CLICKED SUCCESSFULLY]
+2022-09-13 02:45:39,735  INFO [main] Log4jDemo:113 - Static thread wait for 3 seconds
+2022-09-13 02:45:42,754  INFO [main] Log4jDemo:120 - user has log out Inprogress
+2022-09-13 02:45:42,757  INFO [main] Log4jDemo:121 - Static thread wait for 3 seconds
+2022-09-13 02:45:44,773  INFO [main] Log4jDemo:123 - user has logged out Successfully
+2022-09-13 02:45:44,852  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 02:45:44,969  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:00:31,610  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:00:35,378  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:00:35,565  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:00:35,579  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:00:35,589  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:00:35,606  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:00:38,683  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 08:00:43,294  INFO [main] Log4jDemo:24 - user has logged in
+2022-09-13 08:00:43,295  INFO [main] Log4jDemo:28 - Static thread wait for 2 seconds
+2022-09-13 08:00:45,320  INFO [main] Log4jDemo:34 - ELEMENT FLASH TEST STARTED
+2022-09-13 08:00:56,909  INFO [main] Log4jDemo:120 - user has log out Inprogress
+2022-09-13 08:00:56,910  INFO [main] Log4jDemo:121 - Static thread wait for 3 seconds
+2022-09-13 08:00:58,916  INFO [main] Log4jDemo:123 - user has logged out Successfully
+2022-09-13 08:00:58,928  INFO [main] Log4jDemo:20 - Launch the codepenApp
+2022-09-13 08:01:06,062  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:01:09,198  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:01:09,499  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:01:09,513  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:01:09,519  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:01:09,531  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:01:12,580  INFO [main] ExceptionsDemo:16 - WebApp launch in progress
+2022-09-13 08:01:14,611  INFO [main] ExceptionsDemo:18 - WebApp launched successfully 
+2022-09-13 08:01:14,634  INFO [main] ExceptionsDemo:28 - Trying to logout ...
+2022-09-13 08:01:16,636  INFO [main] ExceptionsDemo:34 - Logged out successfully
+2022-09-13 08:01:16,679  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:01:16,944  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:07:49,506  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:07:53,164  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:07:53,375  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:07:53,400  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:07:53,411  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:07:53,427  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:07:56,471  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:07:59,344  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:08:09,424  INFO [main] ExceptionsDemo:31 - Trying to logout ...
+2022-09-13 08:08:11,430  INFO [main] ExceptionsDemo:37 - Logged out successfully
+2022-09-13 08:08:11,472  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:08:14,028  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:13:11,351  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:13:14,982  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:13:15,189  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:13:15,202  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:13:15,213  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:13:15,230  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:13:18,278  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:13:21,888  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:13:21,900  INFO [main] ExceptionsDemo:25 - Clicked on Login
+2022-09-13 08:13:22,015  INFO [main] ExceptionsDemo:32 - Trying to logout ...
+2022-09-13 08:13:24,030  INFO [main] ExceptionsDemo:38 - Logged out successfully
+2022-09-13 08:13:24,092  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:13:24,701  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:17:03,697  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:17:07,233  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:17:07,407  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:17:07,419  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:17:07,424  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:17:07,439  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:17:10,493  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:17:13,400  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:17:13,417  INFO [main] ExceptionsDemo:25 - Clicked on Login
+2022-09-13 08:17:16,303  INFO [main] ExceptionsDemo:38 - Trying to logout ...
+2022-09-13 08:17:18,315  INFO [main] ExceptionsDemo:44 - Logged out successfully
+2022-09-13 08:17:18,344  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:17:18,617  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:19:28,295  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:19:31,985  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:19:32,155  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:19:32,155  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:19:32,156  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:19:32,177  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:19:35,210  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:19:38,563  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:19:38,574  INFO [main] ExceptionsDemo:25 - Clicked on Login
+2022-09-13 08:19:38,964  INFO [main] ExceptionsDemo:39 - Trying to logout ...
+2022-09-13 08:19:40,974  INFO [main] ExceptionsDemo:45 - Logged out successfully
+2022-09-13 08:19:41,131  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:19:41,355  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:20:46,706  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:20:50,131  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:20:50,296  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:20:50,313  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:20:50,321  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:20:50,343  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:20:53,392  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:20:56,495  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:20:56,509  INFO [main] ExceptionsDemo:25 - Clicked on Login
+2022-09-13 08:20:59,371  INFO [main] ExceptionsDemo:39 - Trying to logout ...
+2022-09-13 08:21:01,381  INFO [main] ExceptionsDemo:45 - Logged out successfully
+2022-09-13 08:21:01,454  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:21:01,724  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:29:07,313  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:29:10,848  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:29:11,100  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:29:11,115  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:29:11,127  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:29:11,139  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:29:14,189  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:29:17,449  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:29:17,463  INFO [main] ExceptionsDemo:25 - Clicked on Login
+2022-09-13 08:29:27,669  INFO [main] ExceptionsDemo:40 - Trying to logout ...
+2022-09-13 08:29:29,669  INFO [main] ExceptionsDemo:46 - Logged out successfully
+2022-09-13 08:29:29,750  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:29:30,097  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:39:35,787  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:39:39,275  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:39:39,465  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:39:39,480  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:39:39,486  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:39:39,503  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:39:42,570  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:39:46,317  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:39:46,318  INFO [main] ExceptionsDemo:22 - Clicked on Login
+2022-09-13 08:39:46,448  INFO [main] ExceptionsDemo:31 - Enter the user name
+2022-09-13 08:39:48,705  INFO [main] ExceptionsDemo:35 - Enter the oassword
+2022-09-13 08:39:49,191  INFO [main] ExceptionsDemo:54 - Trying to logout ...
+2022-09-13 08:39:51,196  INFO [main] ExceptionsDemo:60 - Logged out successfully
+2022-09-13 08:39:51,232  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:39:51,355  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:46:27,929  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:46:31,531  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:46:31,700  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:46:31,713  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:46:31,719  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:46:31,750  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:46:34,791  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:46:37,897  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:46:37,897  INFO [main] ExceptionsDemo:22 - Clicked on Login
+2022-09-13 08:46:38,277  INFO [main] ExceptionsDemo:35 - Enter the user name
+2022-09-13 08:47:42,117  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:47:45,631  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:47:45,774  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:47:45,790  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:47:45,797  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:47:45,814  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:47:48,864  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:47:54,229  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:47:54,230  INFO [main] ExceptionsDemo:22 - Clicked on Login
+2022-09-13 08:47:55,296  INFO [main] ExceptionsDemo:35 - Enter the user name
+2022-09-13 08:47:58,982  INFO [main] ExceptionsDemo:43 - Enter the password
+2022-09-13 08:47:59,978  INFO [main] ExceptionsDemo:52 - Clicked on submit button
+2022-09-13 08:48:00,094  INFO [main] ExceptionsDemo:67 - Trying to logout ...
+2022-09-13 08:48:02,097  INFO [main] ExceptionsDemo:73 - Logged out successfully
+2022-09-13 08:48:02,144  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:48:02,347  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 08:48:16,173  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 08:48:19,804  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 08:48:20,070  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 08:48:20,083  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 08:48:20,091  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 08:48:20,106  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 08:48:23,162  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 08:48:25,981  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 08:48:25,982  INFO [main] ExceptionsDemo:22 - Clicked on Login
+2022-09-13 08:48:26,380  INFO [main] ExceptionsDemo:35 - Enter the user name
+2022-09-13 08:48:28,507  INFO [main] ExceptionsDemo:43 - Enter the password
+2022-09-13 08:48:28,629  INFO [main] ExceptionsDemo:52 - Clicked on submit button
+2022-09-13 08:48:28,712  INFO [main] ExceptionsDemo:67 - Trying to logout ...
+2022-09-13 08:48:30,716  INFO [main] ExceptionsDemo:73 - Logged out successfully
+2022-09-13 08:48:30,796  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 08:48:30,969  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 09:03:46,673  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 09:03:50,773  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 09:03:50,918  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 09:03:50,927  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 09:03:50,939  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 09:03:50,954  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 09:03:54,013  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 09:03:57,127  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 09:03:57,129  INFO [main] ExceptionsDemo:22 - Clicked on Login
+2022-09-13 09:03:57,238  INFO [main] ExceptionsDemo:35 - Enter the user name
+2022-09-13 09:04:00,302  INFO [main] ExceptionsDemo:43 - Enter the password
+2022-09-13 09:04:00,553  INFO [main] ExceptionsDemo:52 - Clicked on submit button
+2022-09-13 09:04:00,671  INFO [main] ExceptionsDemo:62 - Redirected to the practice cource page ...
+2022-09-13 09:04:01,782  INFO [main] ExceptionsDemo:65 - Search for Cource
+2022-09-13 09:04:11,858  INFO [main] ExceptionsDemo:72 - Trying to logout ...
+2022-09-13 09:04:13,865  INFO [main] ExceptionsDemo:78 - Logged out successful
+2022-09-13 09:04:13,938  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 09:04:14,123  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 09:06:27,643  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 09:06:31,096  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 09:06:31,263  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 09:06:31,272  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 09:06:31,279  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 09:06:31,293  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 09:06:34,348  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2022-09-13 09:06:37,527  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2022-09-13 09:06:37,527  INFO [main] ExceptionsDemo:22 - Clicked on Login
+2022-09-13 09:06:37,659  INFO [main] ExceptionsDemo:35 - Enter the user name
+2022-09-13 09:06:39,998  INFO [main] ExceptionsDemo:43 - Enter the password
+2022-09-13 09:06:40,189  INFO [main] ExceptionsDemo:52 - Clicked on submit button
+2022-09-13 09:06:40,705  INFO [main] ExceptionsDemo:62 - Redirected to the practice cource page ...
+2022-09-13 09:06:42,559  INFO [main] ExceptionsDemo:65 - Search for Cource
+2022-09-13 09:06:52,647  INFO [main] ExceptionsDemo:76 - Trying to logout ...
+2022-09-13 09:06:54,655  INFO [main] ExceptionsDemo:82 - Logged out successful
+2022-09-13 09:06:54,714  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 09:06:54,914  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 12:32:08,292  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 12:32:13,156  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 12:32:13,299  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 12:32:13,306  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 12:32:13,316  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 12:32:13,329  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 12:32:21,164  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 12:32:23,654  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 12:39:28,808  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 12:39:32,730  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 12:39:32,970  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 12:39:32,982  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 12:39:32,988  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 12:39:33,001  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 12:39:41,032  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 12:39:43,682  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 12:40:13,197  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 12:40:17,141  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 12:40:17,377  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 12:40:17,389  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 12:40:17,395  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 12:40:17,426  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 12:40:25,374  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 12:40:27,958  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 12:51:12,065  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 12:51:15,784  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 12:51:16,081  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 12:51:16,096  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 12:51:16,120  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 12:51:16,146  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 13:12:09,260  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 13:12:12,800  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 13:12:12,946  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 13:12:12,953  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 13:12:12,963  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 13:12:12,982  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 13:12:20,831  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 13:12:21,064  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 13:16:49,057  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 13:16:52,556  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 13:16:52,709  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 13:16:52,723  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 13:16:52,728  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 13:16:52,757  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 13:17:02,070  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 13:17:02,306  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 13:17:39,558  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 13:17:43,016  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 13:17:43,182  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 13:17:43,193  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 13:17:43,198  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 13:17:43,212  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 13:17:55,413  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 13:17:55,502  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 13:27:45,111  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 13:27:48,571  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 13:27:48,758  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 13:27:48,766  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 13:27:48,775  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 13:27:48,790  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 13:27:57,615  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 13:27:57,855  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 13:42:00,739  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 13:42:04,245  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 13:42:04,395  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 13:42:04,402  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 13:42:04,413  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 13:42:04,428  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 13:42:11,374  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 13:42:11,559  INFO [main] BaseClass:41 - Quit the browser
+2022-09-13 13:45:42,529  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-13 13:45:45,841  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-13 13:45:45,978  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-13 13:45:45,988  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-13 13:45:45,993  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-13 13:45:46,006  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-13 13:45:54,342  INFO [main] BaseClass:39 - Close the browser
+2022-09-13 13:45:54,515  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 15:14:44,813  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 15:14:52,752  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 15:14:53,132  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 15:14:53,140  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 15:14:53,146  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 15:14:53,157  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 15:15:01,612  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 15:15:04,646  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 15:17:51,964  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 15:17:56,089  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 15:17:56,524  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 15:17:56,535  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 15:17:56,544  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 15:17:56,641  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 15:18:04,662  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 15:18:05,396  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 15:27:59,233  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 15:28:02,884  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 15:28:03,038  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 15:28:03,051  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 15:28:03,063  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 15:28:03,076  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 15:28:10,609  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 15:28:13,108  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 15:29:03,788  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 15:29:07,284  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 15:29:07,428  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 15:29:07,435  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 15:29:07,446  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 15:29:07,460  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 15:29:15,787  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 15:29:18,324  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 15:34:30,811  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 15:34:34,030  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 15:34:34,179  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 15:34:34,186  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 15:34:34,195  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 15:34:34,208  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 15:34:41,227  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 15:34:43,734  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 15:36:24,987  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 15:36:28,365  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 15:36:28,506  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 15:36:28,517  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 15:36:28,526  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 15:36:28,539  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 15:36:35,429  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 15:36:37,973  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 15:36:58,765  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 15:37:02,071  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 15:37:02,229  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 15:37:02,237  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 15:37:02,248  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 15:37:02,263  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 15:37:08,013  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 15:37:10,560  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 15:41:22,745  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 15:41:26,658  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 15:41:26,817  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 15:41:26,834  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 15:41:26,850  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 15:41:26,883  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 15:41:54,099  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 15:41:54,382  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 15:42:26,424  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 15:42:30,239  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 15:42:30,413  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 15:42:30,425  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 15:42:30,446  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 15:42:30,467  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 15:42:57,966  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 15:43:00,513  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 16:12:52,124  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:12:56,256  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:12:56,464  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:12:56,478  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:12:56,494  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:12:56,515  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:13:16,688  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:13:20,811  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:13:20,977  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:13:20,983  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:13:20,993  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:13:21,005  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:13:30,349  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 16:13:32,852  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 16:15:54,393  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:15:59,485  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:15:59,627  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:15:59,641  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:15:59,647  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:15:59,662  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:16:06,969  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 16:16:09,470  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 16:18:47,978  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:18:51,478  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:18:51,625  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:18:51,633  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:18:51,644  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:18:51,661  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:18:58,832  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 16:19:01,328  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 16:23:47,204  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:23:50,909  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:23:51,277  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:23:51,322  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:23:51,341  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:23:51,354  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:23:58,214  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 16:24:00,708  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 16:25:09,707  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:25:13,433  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:25:13,580  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:25:13,589  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:25:13,599  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:25:13,706  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:25:27,448  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 16:25:29,961  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 16:26:27,537  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:26:31,206  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:26:31,354  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:26:31,369  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:26:31,375  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:26:31,390  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:26:45,976  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 16:26:46,198  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 16:27:28,821  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:27:32,639  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:27:32,824  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:27:32,839  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:27:32,852  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:27:32,869  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:27:48,081  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 16:27:50,610  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 16:31:11,134  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:31:14,609  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:31:14,765  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:31:14,777  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:31:14,782  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:31:14,798  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:31:35,862  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 16:31:36,167  INFO [main] BaseClass:41 - Quit the browser
+2022-09-14 16:34:15,696  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2022-09-14 16:34:19,265  INFO [main] BaseClass:24 - Maximixe the window
+2022-09-14 16:34:19,444  INFO [main] BaseClass:26 - Implicit wait for max 10 SECONDS
+2022-09-14 16:34:19,456  INFO [main] BaseClass:28 - Page Load Timeout for max 10 SECONDS
+2022-09-14 16:34:19,462  INFO [main] BaseClass:30 - Delete All Cookies
+2022-09-14 16:34:19,478  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
+2022-09-14 16:34:40,896  INFO [main] BaseClass:39 - Close the browser
+2022-09-14 16:34:43,407  INFO [main] BaseClass:41 - Quit the browser

@@ -1,0 +1,23 @@
+Abstract Class:
+
+    1. Abstract classes are similar to interfaces. You cannot instantiate them, and they may contain a mix of methods
+       declared with or without an implementation.
+       
+    2. However, with abstract classes, you can declare fields that are not static and final, and define public, protected, 
+       and private concrete methods.
+       
+    3. An abstract class can extend only one parent class but it can implement multiple interfaces.
+    
+    4. When an abstract class is sub-classed, the sub-class usually provides implementations for all the abstract methods
+       in its parent class.
+       
+    5. However, if it does not, provides implementation, then the sub-class must also be declared abstract.
+    
+    Interface:
+    
+    1. Interfaces are purely abstract and it doesn't define any implementation for any of its methods.
+    
+    2. Interface, just define what kind of operation an Object can perform. It doesn't define how to do it.
+       However, how to do steps are defined / implemented by it's implementation class.
+    
+    3. You can instantiate Interface, and all methods in interface by default public and abstract.
